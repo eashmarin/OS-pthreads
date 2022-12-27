@@ -1,5 +1,5 @@
 # OS-pthreads
-Labs for 3rd NSU course "Operating Systems"
+Labs for 3rd year NSU course "Operating Systems"
 
 ## Tasks
 http://parallels.nsu.ru/WackoWiki/KursOperacionnyeSistemy/PraktikumPosixThreads/PthreadTasks
